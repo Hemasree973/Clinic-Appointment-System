@@ -1,0 +1,21 @@
+{
+  "name": "clinic-slot-booking-system",
+  "version": "1.0.0",
+  "description": "Full-stack Clinic Consultation Slot Booking System with React, Node.js, Express, MySQL and Overlap Middleware",
+  "scripts": {
+    "install:all": "npm --prefix backend install && npm --prefix frontend install",
+    "server": "npm --prefix backend start",
+    "client": "npm --prefix frontend run dev",
+    "dev": "npm --prefix backend start"
+  },
+  "keywords": [
+    "clinic",
+    "appointment-booking",
+    "react",
+    "express",
+    "mysql",
+    "overlap-middleware"
+  ],
+  "author": "",
+  "license": "MIT"
+}
