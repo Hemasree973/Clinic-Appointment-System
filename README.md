@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏥 MediPulse Clinic - Consultation Slot Booking System
 
 A lightweight, robust, and state-driven clinic consultation booking system engineered for patient self-service, real-time doctor slot availability, and strict schedule conflict prevention.
@@ -174,3 +175,7 @@ ORDER BY booked_slots_count DESC, d.name ASC;
 
 - Branching guidelines and GitHub branch protection rule configuration are detailed in [BRANCH_PROTECTION.md](BRANCH_PROTECTION.md).
 - Automated CI pipeline runs tests on PR creation via [.github/workflows/ci.yml](.github/workflows/ci.yml).
+=======
+# Clinic-Appointment-System
+A full-stack web application that enables patients to book doctor appointments based on availability. Built using React.js, Node.js, Express.js, and MySQL, it features dynamic slot selection, appointment validation, overlapping booking prevention, and doctor-wise schedule management.
+>>>>>>> ea51b7a4db705aa275862ef7b53cd9325859996f
